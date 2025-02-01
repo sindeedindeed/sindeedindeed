@@ -36,5 +36,4 @@ I'm a passionate developer interested in **machine learning and software develop
 
 ---
 _Always open to collaboration, feel free to reach out!_ 💪
-![Star Wars FTL Jump](https://media.giphy.com/media/your-new-gif-url.gif)
 
