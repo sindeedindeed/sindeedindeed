@@ -1,15 +1,15 @@
-### Hi there, I'm Maishan Nadis 👋
+### 🚀 Commencing Liftoff
 
 I'm a passionate developer interested in **machine learning and software development**. I love building projects that solve real-world problems and exploring new technologies.
 
-### 🚀 Mission Log:
+### 📡 Mission Log
 - 🧠 Currently exploring **Reinforcement Learning from Human Feedback (RLHF)**
 - 📚 Learning **Rust** and **Android Development**
 - ✨ Working on **Kaggle projects**
 - 🌟 General Secretary at **BUP Computer Programming Club**
 - 🛠 Love tinkering with **AI models**
 
-### 🛠 Tech Stack:
+### 🛠️ Tools of the Trade
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -31,7 +31,7 @@ I'm a passionate developer interested in **machine learning and software develop
 ### 🛸 *Star*red Projects in My Galaxy
 - 📅 **DBMS Projects:** EPI Vaccination System
 
-### 🤝 Let's Connect and Collaborate:
+### 🤝 Want to join Forces?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maishan-nadis-734200295/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:sindeed222@gmail.com)
 
