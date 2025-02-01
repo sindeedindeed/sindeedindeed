@@ -20,15 +20,13 @@ I'm a passionate developer interested in **machine learning and software develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 
 ### 🌌 My GitHub Universe in Numbers
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindeedindeed&layout=compact&theme=solarized&langs_count=5)
 
-### 🛸 *Star*red Projects in My Galaxy
+### 🛸 Starred Projects
 - 📅 **DBMS Projects:** EPI Vaccination System
 
 ### 🤝 Want to join Forces?
@@ -38,4 +36,6 @@ I'm a passionate developer interested in **machine learning and software develop
 
 ---
 _Always open to collaboration, feel free to reach out!_ 💪
+---
+![Star Wars FTL Jump](https://media.giphy.com/media/your-new-gif-url.gif)
 
