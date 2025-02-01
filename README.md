@@ -24,7 +24,7 @@ I'm a passionate developer interested in **machine learning and software develop
 
 
 ### 🌌 My GitHub Universe in Numbers
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindeedindeed&layout=compact&theme=solarized&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindeedindeed&layout=compact&theme=solarized)
 
 ### 🛸 Starred Projects
 - 📅 **DBMS Projects:** EPI Vaccination System
