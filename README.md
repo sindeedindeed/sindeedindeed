@@ -30,7 +30,7 @@ I'm a passionate developer interested in **machine learning and software develop
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindeedindeed&layout=compact&theme=solarized)
 
 ### 🛸 Starred Projects
-- 📅 **DBMS Projects:** EPI Vaccination System
+- 📅 EPI Vaccination System -> https://github.com/sindeedindeed/epi-vaccination
 
 ### 🤝 Want to join Forces?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maishan-nadis-734200295/)
