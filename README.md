@@ -8,9 +8,7 @@ I'm a passionate developer interested in **machine learning and software develop
 ### 📡 Mission Log
 - 🧠 Currently exploring **Reinforcement Learning from Human Feedback (RLHF)**
 - 📚 Learning **Rust** and **Android Development**
-- ✨ Working on **Kaggle projects**
 - 🌟 General Secretary at **BUP Computer Programming Club**
-- 🛠 Love tinkering with **AI models**
 
 ### 🛠️ Tools of the Trade
 
@@ -38,5 +36,5 @@ I'm a passionate developer interested in **machine learning and software develop
 
 
 ---
-_Always open to collaboration, feel free to reach out!_ 💪
+_Always open to collaboration, feel free to reach out!_
 
