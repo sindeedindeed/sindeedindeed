@@ -6,7 +6,6 @@ I'm a passionate developer interested in **machine learning and software develop
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maishannadis)
 
 ### 📡 Mission Log
-- 🧠 Currently exploring **Reinforcement Learning from Human Feedback (RLHF)**
 - 📚 Learning **Rust** and **Android Development**
 
 ### 🛠️ Tools of the Trade
