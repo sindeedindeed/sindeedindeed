@@ -23,12 +23,9 @@ I'm a passionate developer interested in **machine learning and software develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-
-### 🌌 My GitHub Universe in Numbers
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindeedindeed&layout=compact&theme=solarized)
-
 ### 🛸 Starred Projects
 - 📅 EPI Vaccination System -> https://github.com/sindeedindeed/epi-vaccination
+- 📅 Modular Automated Firefighting Robot -> https://github.com/sindeedindeed/modular-automated-firefighting-robot/
 
 ### 🤝 Want to join Forces?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maishan-nadis-734200295/)
@@ -36,5 +33,5 @@ I'm a passionate developer interested in **machine learning and software develop
 
 
 ---
-_Always open to collaboration, feel free to reach out!_
+_Feel free to reach out!_
 
