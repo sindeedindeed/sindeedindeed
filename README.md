@@ -8,7 +8,6 @@ I'm a passionate developer interested in **machine learning and software develop
 ### 📡 Mission Log
 - 🧠 Currently exploring **Reinforcement Learning from Human Feedback (RLHF)**
 - 📚 Learning **Rust** and **Android Development**
-- 🌟 General Secretary at **BUP Computer Programming Club**
 
 ### 🛠️ Tools of the Trade
 
