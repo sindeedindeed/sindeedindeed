@@ -1,4 +1,4 @@
-### 🚀 Commencing Liftoff
+### Who am I?
 
 I'm a passionate developer interested in **machine learning and software development**. I love building projects that solve real-world problems and exploring new technologies.
 <br> <br> 
@@ -8,7 +8,7 @@ I'm a passionate developer interested in **machine learning and software develop
 ### 📡 Mission Log
 - 📚 Learning **Rust** and **Android Development**
 
-### 🛠️ Tools of the Trade
+### Tools of the Trade
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -23,7 +23,7 @@ I'm a passionate developer interested in **machine learning and software develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-### 🛸 Starred Projects
+### Projects
 - 📅 EPI Vaccination System -> https://github.com/sindeedindeed/epi-vaccination
 - 📅 Modular Automated Firefighting Robot -> https://github.com/sindeedindeed/modular-automated-firefighting-robot/
 
