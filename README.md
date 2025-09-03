@@ -1,6 +1,4 @@
-### Who am I?
-
-I'm a passionate developer interested in **machine learning and software development**. I love building projects that solve real-world problems and exploring new technologies.
+I'm a CSE undergrad student at Bangladesh University of Professionals with interests in machine learning and software development. I love building projects that solve real-world problems and exploring new technologies.
 <br> <br> 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/maishannadis/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maishannadis)
