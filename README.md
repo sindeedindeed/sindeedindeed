@@ -2,7 +2,7 @@
 
 <div align="center">
   <img alt="ML Enthusiast" src="https://img.shields.io/badge/ML%20Enthusiast-Always%20Learning-success?style=for-the-badge" />
-  <img alt="CV & DL" src="https://img.shields.io/badge/CV%20%26%20DL-Specialist-ff6b6b?style=for-the-badge" />
+  <img alt="CV & DL" src="https://img.shields.io/badge/CV%20%26%?style=for-the-badge" />
 </div>
 
 ---
