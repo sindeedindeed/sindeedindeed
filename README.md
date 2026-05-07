@@ -39,13 +39,7 @@ I'm a **Computer Science & Engineering** undergraduate at **Bangladesh Universit
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sindeedindeed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/sindeedindeed)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sindeedindeed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/sindeedindeed)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sindeedindeed&theme=tokyonight&hide_border=true)](https://github.com/sindeedindeed)
 
@@ -53,7 +47,7 @@ I'm a **Computer Science & Engineering** undergraduate at **Bangladesh Universit
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 <div align="center">
 
