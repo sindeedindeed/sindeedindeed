@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Maishan Nadis
+# Hey, I'm Maishan Nadis
 
 <div align="center">
   <img alt="ML Enthusiast" src="https://img.shields.io/badge/ML%20Enthusiast-Always%20Learning-success?style=for-the-badge" />
@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a **Computer Science & Engineering** undergraduate at **Bangladesh University of Professionals (BUP)**. I'm currently trying to explore and learn in the fields of computer vision and deep learning.
+I'm a Computer Science & Engineering undergraduate at Bangladesh University of Professionals (BUP). I'm currently trying to explore and learn in the fields of computer vision and deep learning.
 
 ## Tech Stack
 
